@@ -1,0 +1,51 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{193, 237}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "013B9116-5070-49B4-BCD1-B57E4BD3C67A",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Hello, World!",
+          "name" : "hello_world_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{225, 277}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Click me!",
+          "uuid" : "44112B0C-0AB2-4EEA-8348-7C5C30285F4C",
+          "class" : "Button",
+          "name" : "hello_world_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
